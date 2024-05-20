@@ -1,0 +1,20 @@
+{
+  "item_dirty_hoe": "Dirty Hoe",
+  "item_dirty_hoe_desc": "A much better Hoe!",
+  "piece_hoe_smooth": "Smooth Terrain",
+  "piece_hoe_flatten": "Flatten Terrain",
+  "piece_hoe_lower": "Lower Terrain",
+  "piece_hoe_raise": "Raise Terrain",
+  "piece_hoe_cultivate_smooth": "Cultivate Smooth",
+  "piece_hoe_cultivate_flatten": "Cultivate Flatten",
+  "piece_hoe_paved_smooth": "Stone Paving Smooth",
+  "piece_hoe_paved_flatten": "Stone Paving Flatten",
+  "piece_hoe_path": "Dirt Path",
+  "piece_hoe_paint_dirt": "Paint Dirt",
+  "piece_hoe_paint_cultivate": "Paint Cultivate",
+  "piece_hoe_paint_paved": "Paint Paved",
+  "piece_hoe_paint_grass": "Paint Grass",
+  "mm_hoe_boost": "Hoe Boost",
+  "mm_hoe_boost_started": "Hoe Boost Started!",
+  "mm_hoe_boost_stopped": "Hoe Boost Stopped!"
+}

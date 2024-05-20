@@ -1,0 +1,7 @@
+﻿{
+  "name": "RefinedStonePieces",
+  "description": "Adds 96 build pieces made of a new material called refined stone which you can craft at the stonecutter.",
+  "version_number": "1.0.1",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2775?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3682371741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a758a2f5d6608b5a778c60784bc24098
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a758a2f5d6608b5a778c60784bc24098
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-AveriaSansLibre
+  - Outline (Thin).mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-AveriaSerifLibre
+  - Outline (Thin).mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Norse
+  - Outline.mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Prstartk
+  - Outline.mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Norse
+  - Outline (Thin).mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Norsebold
+  - Outline.mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-AveriaSerifLibre
+  - Outline.mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Norsebold
+  - Outline (Thin).mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-Norse
+  - Sign Lit.mat
+- Assets/3rd party/TextMesh Pro/Resources/Fonts & Materials/Valheim/Valheim-AveriaSansLibre
+  - Outline.mat
+Dependencies: []

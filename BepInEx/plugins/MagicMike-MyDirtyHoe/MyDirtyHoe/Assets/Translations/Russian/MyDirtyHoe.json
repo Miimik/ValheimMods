@@ -1,0 +1,20 @@
+{
+  "item_dirty_hoe": "Грязная мотыга",
+  "item_dirty_hoe_desc": "Мотыга намного лучше!",
+  "piece_hoe_smooth": "Гладкая местность",
+  "piece_hoe_flatten": "Сгладить местность",
+  "piece_hoe_lower": "Нижняя местность",
+  "piece_hoe_raise": "Поднять местность",
+  "piece_hoe_cultivate_smooth": "Создать гладкую поверхность",
+  "piece_hoe_cultivate_flatten": "Культивировать сглаживание",
+  "piece_hoe_paved_smooth": "Гладкая каменная брусчатка",
+  "piece_hoe_paved_flatten": "Выровнять каменную брусчатку",
+  "piece_hoe_path": "Грязевая тропа",
+  "piece_hoe_paint_dirt": "Грязь от краски",
+  "piece_hoe_paint_cultivate": "Выращивание краски",
+  "piece_hoe_paint_paved": "Покраска асфальтированная",
+  "piece_hoe_paint_grass": "Покрасить траву",
+  "mm_hoe_boost": "Ускорение мотыги",
+  "mm_hoe_boost_started": "Усиление мотыги началось!",
+  "mm_hoe_boost_stopped": "Усиление мотыги остановлено!"
+}

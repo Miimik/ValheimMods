@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3513155273
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tmp_fonts
+      Dependencies: {}

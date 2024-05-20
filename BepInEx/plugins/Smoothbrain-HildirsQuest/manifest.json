@@ -1,0 +1,9 @@
+{
+    "name": "HildirsQuest",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/blaxxun-boop/HildirsQuest",
+    "description": "Makes Hildirs quests per player, instead of server wide.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2200"
+    ]
+}
