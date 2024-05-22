@@ -7,6 +7,19 @@
 </thead>
 <tbody>
   <tr>
+    <td>1.1.9</td>
+    <td>
+    Changed version compaibility strictness.
+	</td>
+  </tr>
+  <tr>
+    <td>1.1.8</td>
+    <td>
+    Fixed Hightmap config not taking effect.<br>
+    I Recommended to rebuild config file.
+	</td>
+  </tr>
+  <tr>
     <td>1.1.7</td>
     <td>
     Fixed Terrain Reset.

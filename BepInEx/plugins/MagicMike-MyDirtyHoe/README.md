@@ -33,7 +33,7 @@
   
 ## Terrain Reset:
 
-  * To reset terrain using the dirty hoe, select the smooth terrain tool and hold down the modifier key (default left alt) when applying the effect.  
+  * To reset terrain using the dirty hoe hold down the modifier key (default left alt).  
   
 ## Other Settings:
 
@@ -52,17 +52,16 @@ Configuration options can be modified in-game (using Configuration Manager plugi
 
 ![Configuration](https://i.imgur.com/D9qdejk.jpg)
 
+## Installation:
 
-## Installation
+### Automatic Install
 
-### Manual
+Plugin is created to be installed with r2modman.
+For Nexus downloads you will need to install manually.
+
+### Manual Install
 
   * Un-zip and place the `MyDirtyHoe` folder in your `BepInEx/plugins/` folder.
-
-### r2modman (manual)
-
-  * Go to Settings > Import local mod > Select `MyDirtyHoe_v*.*.*.zip`.
-  * Click "OK/Import local mod" on the pop-up for information.
   
   
 ### Comments/Suggestions/Help: <a href="https://discord.gg/mVeWEvkDHg">Discord</a>, <a href="https://www.nexusmods.com/valheim/mods/2581?tab=posts">Nexus</a>.
